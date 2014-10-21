@@ -2,6 +2,7 @@
 <resources>
 <color name="perple">#b312c1</color>
 <color name="black">#000000</color>
-<color name="red">#990000</color>
+<color name="red">#b50000</color>
+<color name="superRed">#b50000</color>
     
 </resources>
