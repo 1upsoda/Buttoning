@@ -7,10 +7,13 @@
 
     <Button
         android:id="@+id/firstScreenButton"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_centerHorizontal="true"
-        android:layout_centerVertical="true"
-        android:text="Button" />
+        android:layout_width="160dp"
+        android:layout_height="80dp"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginRight="101dp"
+        android:layout_marginTop="115dp"
+        android:text="making this long enough to see if it loops around or something"
+        android:textSize="13sp" />
 
 </RelativeLayout>
